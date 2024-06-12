@@ -1,0 +1,15 @@
+.inputfld {
+  /* border: 1px solid blue; */
+  height: 20%;
+  border-radius: 8px;
+}
+
+#ip {
+  width: 100%;
+  height: 100%;
+  /* border: 1px solid red; */
+  font-size: 3rem;
+  text-align: end;
+  border-radius: 8px;
+}
+
